@@ -21,6 +21,7 @@ namespace WindowsFormsApp2
         {
             MessageBox.Show("start");
             //Test
+            string name = "Mahshid";
         }
     }
 }
