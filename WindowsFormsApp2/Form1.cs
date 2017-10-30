@@ -19,6 +19,8 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int from = int.Parse(textBox1.Text);
+            int to = int.Parse(textBox2.Text);
             MessageBox.Show("start");
             //Test
         }
