@@ -23,8 +23,6 @@ namespace WindowsFormsApp2
             int to = int.Parse(textBox2.Text);
             MessageBox.Show("start");
             //Test
-            int i;
-           
         }
     }
 }
