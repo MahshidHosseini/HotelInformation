@@ -24,5 +24,10 @@ namespace WindowsFormsApp2
             MessageBox.Show("start");
             //Test
         }
+
+        private void Test()
+        {
+
+        }
     }
 }
