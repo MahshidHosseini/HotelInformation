@@ -27,7 +27,8 @@ namespace WindowsFormsApp2
 
         private void Test()
         {
-
+        
+            MessageBox.Show("Test");
         }
     }
 }
